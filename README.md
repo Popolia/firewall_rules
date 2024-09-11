@@ -2,7 +2,7 @@
 
 - firewall_rules:
 
-  [![Télécharger le fichier](https://github.com/user-attachments/assets/4c318b41-f48c-4751-8fa6-2265e0156ff1)](lien)
+  [![Télécharger le fichier](https://github.com/user-attachments/assets/4c318b41-f48c-4751-8fa6-2265e0156ff1)](https://github.com/Popolia/firewall_rules/archive/refs/heads/main.zip)
 
 - Extraire l'archive.
 
@@ -25,6 +25,8 @@ Ensuite, tape `Y` pour confirmer.
 c. Exécuter le script
 
 voir photo (mais le fichier comme sur la photo)
+
+![image](https://github.com/user-attachments/assets/d342cf9b-fdd0-4382-8d58-faec459a7479)
 
     Navigue dans le dossier Téléchargements avec la commande cd dans PowerShell :
 
