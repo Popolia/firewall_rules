@@ -32,7 +32,7 @@ voir photo (mais le fichier comme sur la photo)
 
     Navigue dans le dossier Téléchargements avec la commande cd dans PowerShell :
 
-powershell
+powershell ( `C:` est la lettre du lecteur si vous c'est `D:` mettre `D:`)
 
 `cd C:\Users\Admin\Downloads`
 
