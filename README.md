@@ -113,13 +113,60 @@ Donc en therme de changement on n'est plutôt stable cars ca indique  que Blizza
 
 ## Pour la vertion manuel:
 
-Ouvrez le Pare-feu Windows avec fonctions avancées en recherchant « Pare-feu Windows » dans le menu Démarrer et en sélectionnant « Pare-feu Windows avec fonctions avancées ».
+ Bloquer la connexion :
 
-Accédez aux Règles de trafic entrant ou sortant selon ce que tu veux bloquer.
+`Ouvrez le Pare-feu Windows avec fonctions avancées en recherchant « Pare-feu Windows » dans le menu Démarrer et en sélectionnant « Pare-feu Windows avec fonctions avancées ».`
 
-Créez une nouvelle règle : Clique sur « Nouvelle règle » et choisi « Personnalisé ».
+`Accédez aux Règles de trafic entrant ou sortant selon ce que tu veux bloquer.`
 
-Défini les conditions : Choisi « Cette IP spécifique » et entre l’adresse IP que tu souhaites bloquer.
+`Créez une nouvelle règle : Clique sur « Nouvelle règle » et choisi « Personnalisé ».`
 
-Configurez l’action : Choisi « Bloquer la connexion ». 
+`Défini les conditions : Choisi « Cette IP spécifique » et entre l’adresse IP que tu souhaites bloquer.`
+
+`Configurez l’action : Choisi « Bloquer la connexion ».`
+
+Pour autoriser , je vais me répéter mais c'est pour etre sure que vous avez bien comprit :
+
+    Ouvrir le Pare-feu Windows avec fonctions avancées :
+
+        Clique sur le bouton Démarrer.
+        Tape "Pare-feu Windows" dans la barre de recherche.
+        Sélectionne "Pare-feu Windows avec fonctions avancées" dans les résultats.
+
+    Accéder aux règles de trafic :
+        Dans la fenêtre du Pare-feu Windows avec fonctions avancées, choisissez :
+
+            Règles de trafic entrant (pour autoriser des connexions vers votre ordinateur).
+
+            Règles de trafic sortant (pour autoriser des connexions sortantes vers une adresse IP externe).
+
+    Créer une nouvelle règle :
+
+        Clique sur Nouvelle règle dans le panneau de droite.
+        Dans l’assistant de création de règle, sélectionne Personnalisé, puis clique sur Suivant.
+
+    Définir les conditions de la règle :
+
+        Choisis Tous les programmes ou spécifiez un programme particulier si nécessaire.
+        Clique sur Suivant jusqu’à l’écran Adresse IP.
+
+    Spécifie l'adresse IP à autoriser :
+
+        Pour autoriser une adresse IP spécifique :
+
+            Dans la section Adresse IP distante, choisissez Ces adresses IP spécifiques.
+            Clique sur Ajouter et entrez l’adresse IP que vous souhaitez autoriser.
+            Une fois que vous avez ajouté l’IP, clique sur Suivant.
+
+    Configurer l'action :
+        Sélectionne Autoriser la connexion, puis cliquez sur Suivant.
+
+    Choisir le profil réseau :
+        Sélectionne les profils (Domaine, Privé, Public) auxquels la règle doit s'appliquer, puis clique sur Suivant.
+
+    Nommer la règle :
+        Donnez un nom à la règle (par exemple, "Autoriser IP spécifique") pour la retrouver facilement.
+        Cliquez sur Terminer.
+
+Votre règle est maintenant active, et l’adresse IP spécifiée est autorisée.
 
