@@ -62,8 +62,8 @@ Après l'exécution du script, tu peux vérifier que les règles du pare-feu son
 
 Première : firewall_rules.ps1
 
-Les règles du pare-feu autorisent les adresses IP européennes,
-bloquent les adresses IP américaines et asiatiques.
+`Les règles du pare-feu autorisent les adresses IP européennes,
+bloquent les adresses IP américaines et asiatiques.`
 
 classique ca etais fait en quelque minute .
 
