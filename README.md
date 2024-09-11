@@ -134,6 +134,7 @@ Pour autoriser , je vais me répéter mais c'est pour etre sure que vous avez bi
         Sélectionne "Pare-feu Windows avec fonctions avancées" dans les résultats.
 
     Accéder aux règles de trafic :
+
         Dans la fenêtre du Pare-feu Windows avec fonctions avancées, choisissez :
 
             Règles de trafic entrant (pour autoriser des connexions vers votre ordinateur).
@@ -159,12 +160,15 @@ Pour autoriser , je vais me répéter mais c'est pour etre sure que vous avez bi
             Une fois que vous avez ajouté l’IP, clique sur Suivant.
 
     Configurer l'action :
+
         Sélectionne Autoriser la connexion, puis cliquez sur Suivant.
 
     Choisir le profil réseau :
+
         Sélectionne les profils (Domaine, Privé, Public) auxquels la règle doit s'appliquer, puis clique sur Suivant.
 
     Nommer la règle :
+
         Donnez un nom à la règle (par exemple, "Autoriser IP spécifique") pour la retrouver facilement.
         Cliquez sur Terminer.
 
