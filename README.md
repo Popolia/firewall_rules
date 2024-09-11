@@ -110,3 +110,16 @@ Dernière modification
 mar. 26 juin 2018 07:22:43 GMT (mardi 26 juin 2018 heure locale)
 
 Donc en therme de changement on n'est plutôt stable cars ca indique  que Blizzard qui possède cet enregistrement n'a pas eu besoin de mettre à jour ses informations ou que les informations sont toujours d'actualité.
+
+## Pour la vertion manuel:
+
+Ouvrez le Pare-feu Windows avec fonctions avancées en recherchant « Pare-feu Windows » dans le menu Démarrer et en sélectionnant « Pare-feu Windows avec fonctions avancées ».
+
+Accédez aux Règles de trafic entrant ou sortant selon ce que tu veux bloquer.
+
+Créez une nouvelle règle : Clique sur « Nouvelle règle » et choisi « Personnalisé ».
+
+Défini les conditions : Choisi « Cette IP spécifique » et entre l’adresse IP que tu souhaites bloquer.
+
+Configurez l’action : Choisi « Bloquer la connexion ». 
+
