@@ -67,7 +67,7 @@ bloquent les adresses IP américaines et asiatiques.
 
 classique ca etais fait en quelque minute .
 
-l'autre pars contre :  firewall_rulesupdate.ps1 
+l'autre pars contre :  firewall_rulesupdate.ps1  est la deuxieme  vertion , plus complexe .
 
 **Résumé de la vertion firewall_rulesupdate.ps1 ** (la Configuration du Pare-feu pour Overwatch 2)
 
