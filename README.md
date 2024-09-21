@@ -6,6 +6,8 @@
 
 - Extraire l'archive.
 
+- Mise à jour bêta du .exe si le .exe ne fonctionne pas faire la manipe avec le fichier en .ps1
+
 ## comment èxécuter firewall_rules:
 
 a. Ouvrir PowerShell en tant qu'administrateur:
